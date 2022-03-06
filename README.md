@@ -1,2 +1,2 @@
-# iamit.github.io
-Portfolio Website
+# iAmit.github.io
+My Portfolio Website Created in HTML, CSS and Java Script
